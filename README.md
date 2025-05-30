@@ -1,1 +1,1 @@
-# roc_sha256
+This is deprecated. The updated project is here: https://github.com/hadcomfort/ShaRoc
